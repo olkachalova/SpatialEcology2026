@@ -1,0 +1,14 @@
+# Core dependencies (matching the notebook setup cell)
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+scikit-learn>=1.2
+matplotlib>=3.6
+seaborn>=0.12
+
+# Original Meuse R data reader
+pyreadr>=0.5
+
+# Local notebook environment
+jupyterlab>=4
+ipykernel>=6
